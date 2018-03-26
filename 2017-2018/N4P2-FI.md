@@ -39,16 +39,23 @@ Description du projet
 
 # Équipe 4
 
-Description du projet
+Izyfree : plateforme qui met en lien des freelances avec des entreprises
 
 ## Équipe
 
-* 
+* Guillaume Renaud
+* Florian Lestienne
+* Florent Cadet
+* Valentin Lucas
+* Gaspard Mathon
+* Marin Dubuis
+* Lucas Fresiers
+* Sarah Bertin
 
 ## Resources
 
-* git serveur :
-* git android :
+* git serveur : https://github.com/Guillaume-le-conquerant/izyfree.git
+* git android : https://git-iut.univ-lille1.fr/fresierl/izyfree-mobile2.git
 
 # Équipe 5
 
